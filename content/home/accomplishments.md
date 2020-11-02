@@ -56,6 +56,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2015-12-04"
   date_end = ""
-  description = "Grant for organizing an interdisciplinary conference"
+  description = """Grant for organizing an interdisciplinary conference"""
 
 +++
