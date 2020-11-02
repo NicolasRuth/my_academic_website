@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoc Research Fellow in Music Psychology & Music Management
+role: Postdoc Research Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -21,6 +21,7 @@ organizations:
 bio: My research interests include development of musical abilities and personality, streaming, music marketing and management, music in media, prosocial music.
 
 interests:
+
  - Development of musical abilities
  - Prosocial music
  - Streaming
@@ -28,6 +29,7 @@ interests:
  - Music in the media
 
 education:
+  courses:
   - course: Doctoral degree in Media Communication
     institution: Julius-Maximilians-University Wuerzburg
     year: 2018
@@ -45,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#mailto:drnicolasruth@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/nickruth
@@ -61,6 +63,12 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/nicolas-ruth-b4022658/
+  - icon: orcid
+  icon_pack: ai
+  link: http://orcid.org/0000-0002-4189-3162
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/1601967/dr-nicolas-ruth/
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
