@@ -25,12 +25,6 @@ date_format = "Jan 2006"
   date_start = "2019-05-01"
   
 [[item]]
-  organization = "IASPM"
-  organization_url = "https://www.iaspm.net/"
-  title = "IASPM Travel Grant"
-  date_start = "2019-06-01"
-  
-[[item]]
   organization = "German Academic Exchange Service"
   organization_url = "https://www.daad.de/en/"
   title = "DAAD Conference Grants"
