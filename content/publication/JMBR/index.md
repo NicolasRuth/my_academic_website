@@ -20,17 +20,7 @@ publication_types: ["2"]
 publication: "*International Journal of Music Business Research*" 
 publication_short: ""
 
-abstract: >
-  Mentions of commercial products are common in hip hop and R&B lyrics, relative to
-other genres of popular music, although the potential impacts of this are not wellunderstood. Since these songs reach millions of people daily, it is pertinent to study
-the nature of these product mentions – in turn facilitating further research on their
-effects. In order to provide an overview of the product mentions that are present in
-hip hop and R&B lyrics between 1990 and 2017, we undertook a large-scale content
-analysis (N = 2,650 song lyrics). Mentions of products were frequent, and the types
-of products being mentioned remained mostly consistent (predominantly cars, fashion and alcohol), although the rate increased dramatically over time. Most mentions were of high-end brands and were framed neutrally. Overall, lyrics mentioning
-products contained more diverse vocabulary and were much more likely to mention
-money. These findings are interpreted in relation to prior research and the music
-business in general.
+abstract: "Mentions of commercial products are common in hip hop and R&B lyrics, relative to other genres of popular music, although the potential impacts of this are not wellunderstood. Since these songs reach millions of people daily, it is pertinent to study the nature of these product mentions – in turn facilitating further research on their effects. In order to provide an overview of the product mentions that are present in hip hop and R&B lyrics between 1990 and 2017, we undertook a large-scale content analysis (N = 2,650 song lyrics). Mentions of products were frequent, and the types of products being mentioned remained mostly consistent (predominantly cars, fashion and alcohol), although the rate increased dramatically over time. Most mentions were of high-end brands and were framed neutrally. Overall, lyrics mentioning products contained more diverse vocabulary and were much more likely to mention money. These findings are interpreted in relation to prior research and the music business in general."
 
 # Summary. An optional shortened abstract.
 summary: ""
