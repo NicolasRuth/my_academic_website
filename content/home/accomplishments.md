@@ -34,8 +34,7 @@ date_format = "Jan 2006"
   url = ""
   date_start = "2019-05-01"  
   date_end = ""
-  description = """
-  * 2-year fully funded fellowhsip
+  description = """2-year fully funded fellowship
   * Project title: *Music was my first love? The impact of musical abilities on the development of personality*
   """
 
