@@ -52,19 +52,22 @@ social:
   icon_pack: fab
   link: https://twitter.com/nickruth
 - icon: google-scholar
-  icon_pack: fab
+  icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=v_bo6OEAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/NicolasRuth/
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Nicolas_Ruth/
 - icon: orcid
-  icon_pack: fab
+  icon_pack: ai
   link: http://orcid.org/0000-0002-4189-3162
 - icon: publons
-  icon_pack: fab
+  icon_pack: ai
   link: https://publons.com/researcher/1601967/dr-nicolas-ruth/
 - icon: cv-square
-  icon_pack: fab
+  icon_pack: ai
   link: files/cv.pdf
 
 # Highlight the author in author lists? (true/false)
