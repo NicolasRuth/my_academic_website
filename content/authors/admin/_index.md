@@ -60,9 +60,6 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Nicolas_Ruth
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/nicolas-ruth-b4022658/
   - icon: orcid
   icon_pack: ai
   link: http://orcid.org/0000-0002-4189-3162
