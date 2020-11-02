@@ -22,13 +22,19 @@ date_format = "Jan 2006"
   organization = "Humboldt Foundation"
   organization_url = "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship"
   title = "Feodor Lynen Research Fellowship"
-  date_start = "2019-05-01"
+  url = ""
+  date_start = "2019-05-01"  
+  date_end = ""
+  description = ""
   
 [[item]]
   organization = "International Association for the Study of Popular Music"
   organization_url = "https://www.iaspm.net/"
   title = "IASPM Travel Grant"
+  url = ""
   date_start = "2019-06-01"
+  date_end = ""
+  description = ""
   
 [[item]]
   organization = "German Academic Exchange Service"
