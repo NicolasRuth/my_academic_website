@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = ""
   date_end = ""
-  description = "ICA 2018 (Prague, Czech Republic), ICMPC 2016 (San Francisco, USA), IASPM 2015 (Campinas, Brazil)"
+  description = """ICA 2018 (Prague, Czech Republic), ICMPC 2016 (San Francisco, USA), IASPM 2015 (Campinas, Brazil)"""
   
 [[item]]
   organization = "Human Dynamic Centre Wuerzburg"
