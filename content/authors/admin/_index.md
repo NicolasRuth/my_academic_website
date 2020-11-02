@@ -57,10 +57,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/NicolasRuth/
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Nicolas_Ruth
-  - icon: orcid
+- icon: orcid
   icon_pack: ai
   link: http://orcid.org/0000-0002-4189-3162
 - icon: publons
