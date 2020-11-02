@@ -66,5 +66,4 @@ date_format = "Jan 2006"
   date_start = "2013-03-01"
   date_end = "2013-08-30"
   description = "Externally funded research project on effects of radio music programmes"
-  
 +++
