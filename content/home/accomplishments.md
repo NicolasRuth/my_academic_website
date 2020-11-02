@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Funding & Grants"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,43 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Humboldt Foundation"
+  organization_url = "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship"
+  title = "Feodor Lynen Research Fellowship"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2019-05-01"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "International Association for the Study of Popular Music (IASPM)"
+  organization_url = "https://www.iaspm.net/"
+  title = "IASPM Travel Grant"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-06-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = ""
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "German Academic Exchange Service (DAAD)"
+  organization_url = "https://www.daad.de/en/"
+  title = "DAAD Conference Grants"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = ""
+  date_start = ""
+  date_end = ""
+  description = "ICA 2018 (Prague, Czech Republic), ICMPC 2016 (San Francisco, USA), IASPM 2015 (Campinas, Brazil)"
+  
+[[item]]
+  organization = "Human Dynamic Centre Wuerzburg"
+  organization_url = "https://www.hw.uni-wuerzburg.de/en/hdc/front-page/"
+  title = "Start-up funding"
+  url = ""
+  certificate_url = ""
+  date_start = "2015-12-04"
+  date_end = ""
+  description = "Grant for organizing an interdisciplinary conference"
 
 +++
