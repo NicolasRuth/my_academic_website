@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 # , 14*(6)
-publication: "*Psychomusicology: Music, Mind, and Brain*" 
+publication: "*Psychomusicology: Music, Mind, and Brain*(2)" 
 publication_short: ""
 
 abstract: "It is widely believed that someone’s personality can be assessed through their musical taste. There are many theoretical approaches that explain why this could be true, and a long tradition of research has investigated the associations between personality and musical preferences, but empirical evidence regarding these correlations shows inconsistent results. An explanation for these inconsistent findings could be that personality and musical preferences might be largely stable and not correlated in adults, whereas during childhood and adolescence, these traits may be connected more strongly, as younger individuals’ traits are still developing and music is a highly influential factor at this point of life. Therefore, the aim of the current study is to test whether pupils’ personality profiles are associated with musical preferences. Data from a cross-sectional study at a British girls’ secondary school were used (N = 312) for this purpose. Musical preferences were assessed using a nonverbal inventory with sound examples. By using structural equation modeling, regression trees, and random forest models, it was investigated how well ratings of musical sound excerpts can be used to predict the Big Five personality traits. Results from random forest regression models indicate that extraversion (R² = 6.4%), agreeableness (R² = 5.6%), and conscientiousness (R² = 4.1%) can be predicted by musical preferences to a small degree. In contrast, the explained variance for openness to experience and neuroticism was negligibly small (< 1%). The results arising from a data-driven structural equation model show that mellow musical styles are associated with agreeableness, whereas intense and sophisticated music is correlated with extraversion."
@@ -36,7 +36,7 @@ links:
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
- - name: Media
+- name: Media
   url: ""
 
 url_pdf: 
