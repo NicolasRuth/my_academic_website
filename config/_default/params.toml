@@ -13,7 +13,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "Mr Robot"
+theme = "Minimal"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -121,7 +121,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = "Nicolas Ruth - Foto.jpg"
+sharing_image = "Nicolas_Ruth_skaliert.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "nickruth"
