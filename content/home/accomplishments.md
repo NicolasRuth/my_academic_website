@@ -19,20 +19,20 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Humboldt Foundation"
-  organization_url = "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship"
-  title = "Feodor Lynen Research Fellowship"
-  url = ""
-  date_start = "2019-05-01"  
-  date_end = ""
-  description = ""
-  
-[[item]]
   organization = "International Association for the Study of Popular Music"
   organization_url = "https://www.iaspm.net/"
   title = "IASPM Travel Grant"
   url = ""
   date_start = "2019-06-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Humboldt Foundation"
+  organization_url = "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship"
+  title = "Feodor Lynen Research Fellowship"
+  url = ""
+  date_start = "2019-05-01"  
   date_end = ""
   description = ""
 
@@ -42,9 +42,12 @@ date_format = "Jan 2006"
   title = "DAAD Conference Grants"
   url = ""
   certificate_url = ""
-  date_start = ""
+  date_start = "2015-06-01"
   date_end = ""
-  description = ""
+  description = """Awards to assist with the costs of attending the following conferences: 
+  * ICA 2018 (Prague, Czech Republic) 
+  * ICMPC 2016 (San Francisco, USA) 
+  * IASPM 2015 (Campinas, Brazil)"""
   
 [[item]]
   organization = "Human Dynamic Centre Wuerzburg"
