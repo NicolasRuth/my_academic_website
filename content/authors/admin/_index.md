@@ -33,7 +33,7 @@ education:
   - course: Doctoral degree in Media Communication
     institution: Julius-Maximilians-University Wuerzburg
     year: 2018
-  - course: Master of Arts in Poopular Music and Media
+  - course: Master of Arts in Popular Music and Media
     institution: University of Paderborn
     year: 2012
   - course: Bachelor of Arts in Musicology
