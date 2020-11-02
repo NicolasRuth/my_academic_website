@@ -56,7 +56,7 @@ date_format = "Jan 2006"
   location = "Würzburg, Germany"
   date_start = "2014-03-01"
   date_end = "2014-08-30"
-  description = "Externally funded research project on perception of radio host"
+  description = """Externally funded research project on perception of radio host"""
   """
   
   [[experience]]
@@ -66,6 +66,6 @@ date_format = "Jan 2006"
   location = "Würzburg, Germany"
   date_start = "2013-03-01"
   date_end = "2013-08-30"
-  description = "Externally funded research project on effects of radio music programmes"
+  description = """Externally funded research project on effects of radio music programmes"""
   """
 +++
