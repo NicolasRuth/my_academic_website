@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-05-01"
   
 [[item]]
-  organization = "International Association for the Study of Popular Music"
+  organization = "IASPM"
   organization_url = "https://www.iaspm.net/"
   title = "IASPM Travel Grant"
   date_start = "2019-06-01"
