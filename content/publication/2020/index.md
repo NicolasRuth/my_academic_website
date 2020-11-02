@@ -37,7 +37,7 @@ links:
 #   icon_pack: fab
 #   icon: twitter
  - name: Media
-  url: 
+  url: ""
 
 url_pdf: 
 url_code:
