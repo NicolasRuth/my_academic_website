@@ -43,7 +43,7 @@ Appell die Wahrnehmung der Nutzer*innen positiv beeinflussen kann."
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Streaming, Moral, Technology Acceptance Model, Spotify, structural equation model, experiment]
+tags: [streaming, moral, Technology Acceptance Model, Spotify, structural equation model, experiment]
 categories: []
 featured: false
 
