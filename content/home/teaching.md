@@ -55,9 +55,11 @@ date_format = "Jan 2006"
   date_start = "2016-04-01"
   date_end = ""
   description = ""
-  
-social:  
+
++++
+---
+Download a complete list of teaching experience here:
   - icon: school
     icon_pack: fas
     link: files/teaching.pdf
-+++
+---
