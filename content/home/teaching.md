@@ -56,9 +56,8 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
   
-link:  
-  - icon_pack: fas
-    icon: school
-    name: List of all teaching
-    url: /static/files/teaching.pdf
+social:  
+  - icon: school
+    icon_pack: fas
+    link: files/teaching.pdf
 +++
