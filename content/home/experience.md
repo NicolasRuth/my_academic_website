@@ -44,26 +44,9 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Teaching in B.Sc. and M.Sc Media Communication
-  * Research
+  * Research on music and media
   * Management of recording studio lab
   * Supervising bachelor and master theses
   """
 
-[[experience]]
-  title = "Research associate"
-  company = "Julius-Maximilians-University Würzburg"
-  company_url = "https://www.mcm.uni-wuerzburg.de/mwk/startseite/"
-  location = "Würzburg, Germany"
-  date_start = "2014-03-01"
-  date_end = "2014-08-30"
-  description = "Externally funded research project on perception of radio host"
-  
-  [[experience]]
-  title = "Research associate"
-  company = "Julius-Maximilians-University Würzburg"
-  company_url = "https://www.mcm.uni-wuerzburg.de/mwk/startseite/"
-  location = "Würzburg, Germany"
-  date_start = "2013-03-01"
-  date_end = "2013-08-30"
-  description = "Externally funded research project on effects of radio music programmes"
 +++
