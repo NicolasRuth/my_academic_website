@@ -56,13 +56,15 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
----
-Download a complete list of teaching experience here:
+[[item]]
+  organization = "Download a complete list of teaching experience here"
+  organization_url = ""
+  title = "Musik- und Eventmanagement"
+  url = /files/teaching.pdf
+  certificate_url = ""
+  date_start = "2012-11-01"
+  date_end = ""
+  description = "This is a downloadable pdf with all teaching experience and supervised theses in English and German"
 
-social:
-  - icon: school
-    icon_pack: fas
-    link: files/teaching.pdf
----
 +++
 
