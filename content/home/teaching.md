@@ -59,6 +59,7 @@ date_format = "Jan 2006"
 +++
 ---
 Download a complete list of teaching experience here:
+social:
   - icon: school
     icon_pack: fas
     link: files/teaching.pdf
