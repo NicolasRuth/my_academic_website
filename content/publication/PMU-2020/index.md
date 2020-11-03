@@ -40,7 +40,7 @@ and sophisticated music is correlated with extraversion."
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [musical abilities, development, personality, musical preferences, machine learning, random forest, strucutral equation model]
+tags: [musical abilities, development, personality, musical preferences, machine learning, random forest, structural equation model]
 categories: []
 featured: false
 
