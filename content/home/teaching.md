@@ -57,9 +57,9 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "Download a complete list of teaching experience here"
+  organization = "All universities"
   organization_url = ""
-  title = "Musik- und Eventmanagement"
+  title = "**Download a complete list of teaching experience here**"
   url = "/files/teaching.pdf"
   certificate_url = ""
   date_start = "2012-11-01"
