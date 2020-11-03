@@ -4,7 +4,7 @@
 title: "Save your artist! Der Einfluss moralischer Appelle von Musikschaffenden auf die Akzeptanz von kostenpflichtigen Musikstreamingdiensten"
 authors: [Fabian Henning, Nicolas Ruth]
 date: 2020-05-07T18:18:47+00:00
-doi: ""
+doi: "https://doi.org/10.5964/jbdgm.2019v29.48"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-11-03T14:18:47+00:00
