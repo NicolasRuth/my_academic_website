@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Research & Teaching Associate / doctoral student"
+  title = "Research & Teaching Associate / Doctoral Student"
   company = "Julius-Maximilians-University Würzburg"
   company_url = "https://www.mcm.uni-wuerzburg.de/mwk/startseite/"
   location = "Würzburg, Germany"
