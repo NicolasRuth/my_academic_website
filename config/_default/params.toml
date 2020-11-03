@@ -93,11 +93,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "", city = "Würzburg", region = "", postcode = "", country = "Germany", country_code = "DE"}
+address = {street = "New Cross", city = "London", region = "", postcode = "SE14 6NW", country = "United Kingdom", country_code = "UK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "49.7957", longitude = "9.9142"}
+coordinates = {latitude = "51.473432", longitude = "-0.037468"}
 
 # Directions for visitors to locate you.
 directions = ""
@@ -113,7 +113,7 @@ appointment_url = ""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/nickruth"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:nick_ruth?call"}
+  {icon = "skype", icon_pack = "fab", name = "Call Me", link = "skype:nick_ruth?call"}
   ]
 
 ############################
