@@ -3,7 +3,7 @@
 
 title: "Musik auf Online- und Mobilmedien"
 authors: [Nicolas Ruth]
-date: 2020-01-29T18:00:00+00:00
+date: 2019-07-03T18:00:00+00:00
 doi: "http://dx.doi.org/10.1007/978-3-658-21899-7_9"
 
 # Schedule page publish date (NOT publication's date).
