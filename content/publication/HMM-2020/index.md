@@ -35,7 +35,7 @@ Auswirkungen, die sich für Hörer und Hörerinnen, Musikschaffende und Musikind
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [online, streaming, mobile devices, YouTube, music industry, copyright]
+tags: [online, streaming, internet, mp3, mobile devices, YouTube, music industry, copyright]
 categories: []
 featured: false
 
