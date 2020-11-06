@@ -1,3 +1,4 @@
+---
 title: "Loudness War? Eine experimentelle Untersuchung zum Einfluss übersteigerter Dynamikkompression auf die Rezeption populärer Musik"
 authors: [Nicolas Ruth, Claudia Bullerjahn]
 date: 2011-02-01T18:00:00+00:00
