@@ -35,7 +35,7 @@ Auswirkungen, die sich für Hörer und Hörerinnen, Musikschaffende und Musikind
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [streaming, internet, mp3, music industry, mobile devices]
+tags: [prosocial music, aggression, emotions, thoughts, experiment]
 categories: []
 featured: false
 
