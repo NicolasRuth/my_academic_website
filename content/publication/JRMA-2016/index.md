@@ -1,5 +1,5 @@
 title: "“… And Please Visit Our Facebook Page, Too!” How Radio Presenter Personalities Influence Listeners’ Interactions With Radio Stations"
-authors: [Tamara Böhm, Nicolas Ruth, Holger Schramm]
+authors: [Benedikt Spangardt, Nicolas Ruth, Holger Schramm]
 date: 2016-02-01T18:00:00+00:00
 doi: "https://doi.org/10.1080/19376529.2016.1155710"
 
