@@ -1,6 +1,4 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "Associations between personality and musical emotion discrimination in secondary school students"
 event: Brain Cognition Emotion Music Conference
 event_url: https://bcem-conference.weebly.com/
