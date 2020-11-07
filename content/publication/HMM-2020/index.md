@@ -19,15 +19,7 @@ publication_types: ["6"]
 publication: "*Handbuch Musik und Medien*"
 publication_short: ""
 
-abstract: "Der vorliegende Artikel nähert sich dem „Loudness War" genannten Phänomen, also der gesteigerten 
-Dynamikkompression in der Post-Produktion von populärer Musik, und seinen Auswirkungen für die Rezeption. Die 
-zentrale experimentelle Studie in dieser Arbeit beschäftigt sich in einem 2 x 2 Between-Subjects-Design mit der 
-Wahrnehmung und Bewertung von verschiedenen populären Musikstücken. 56 Studierende (M = 22,8 Jahre, 69,6 % weiblich) 
-hörten in zwei Gruppen jeweils die drei gleichen Lieder, davon das zweite oder dritte in einer übersteigerten 
-Dynamikkompression. Als Messinstrument fungierte ein in Anlehnung an Maempel (2001) modifizierter 
-Klanggestaltungsfragebogen sowie das SAM und der PANAS-d-state. Nur der an dritter Stelle präsentierte Song wurde 
-in „lauter", also stark komprimierter Mischung hinsichtlich mehrerer Parameter signifikant schlechter bewertet als 
-in konventioneller Mischung und hinterließ auch eine negativere Gefühlsanmutung."
+abstract: "Seit das Internet existiert, hat es einen entscheidenden Einfluss auf unsere Musikkultur ausgeübt. Musik war immer ein zentraler Inhalt, über den bereits in den ersten Internetforen diskutiert wurde. Darüber hinaus gehörten Musikstücke schon immer zu den Objekten, die Internetnutzer*innen untereinander austauschten oder gemeinsam bearbeiteten. Mit der schnell voranschreitenden Entwicklung von internetfähigen mobilen Endgeräten haben sich die unterschiedlichsten Musiknutzungen zu mobil ausübbaren Tätigkeiten entwickelt. Wie sich der Umgang mit Musik auf Online- und Mobilmedien über die Jahre seit der Entstehung des Internets entwickelt hat, soll in dem vorliegenden Artikel aufgezeigt werden. Von der Entwicklung der MP3 und dem Einfluss dieses Dateiformats auf die Entstehung von Online-Tauschbörsen und der damit einhergehenden Verbreitung der Internetpiraterie, über das Aufkommen von legalen Geschäftsmodellen wie etwa den Musikstreamingservices, hin zu Konzertübertragungen und virtuellen Proben, die über das Internet durchgeführt werden, sollen entscheidende Aspekte dieser Musikgeschichte aufgezeigt werden. Im Zentrum stehen dabei die Auswirkungen, die sich für Hörer und Hörerinnen, Musikschaffende und Musikindustrie ergaben."
 
 # Summary. An optional shortened abstract.
 summary: ""
