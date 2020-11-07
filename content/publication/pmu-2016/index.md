@@ -1,3 +1,4 @@
+---
 title: "“Count on me”—The influence of music with prosocial lyrics on cognitive and affective aggression"
 authors: [Tamara Böhm, Nicolas Ruth, Holger Schramm]
 date: 2016-07-03T18:00:00+00:00
