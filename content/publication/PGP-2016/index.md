@@ -1,3 +1,4 @@
+---
 title: "German music talent shows"
 authors: [Nicolas Ruth, Holger Schramm]
 date: 2016-11-25T18:00:00+00:00
