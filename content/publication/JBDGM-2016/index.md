@@ -1,3 +1,4 @@
+---
 title: "Time for Talents? Eine Untersuchung von Erfolgsfaktoren bei Musikcastingshows"
 authors: [Nicolas Ruth, Benedikt Spangardt, Holger Schramm]
 date: 2016-01-01T18:00:00+00:00
