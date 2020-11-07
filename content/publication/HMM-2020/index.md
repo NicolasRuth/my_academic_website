@@ -19,7 +19,15 @@ publication_types: ["6"]
 publication: "*Handbuch Musik und Medien*"
 publication_short: ""
 
-abstract: "Der vorliegende Artikel nähert sich dem „Loudness War" genannten Phänomen, also der gesteigerten Dynamikkompression in der Post-Produktion von populärer Musik, und seinen Auswirkungen für die Rezeption. Die zentrale experimentelle Studie in dieser Arbeit beschäftigt sich in einem 2 x 2 Between-Subjects-Design mit der Wahrnehmung und Bewertung von verschiedenen populären Musikstücken. 56 Studierende (M = 22,8 Jahre, 69,6 % weiblich) hörten in zwei Gruppen jeweils die drei gleichen Lieder, davon das zweite oder dritte in einer übersteigerten Dynamikkompression. Als Messinstrument fungierte ein in Anlehnung an Maempel (2001) modifizierter Klanggestaltungsfragebogen sowie das SAM und der PANAS-d-state. Nur der an dritter Stelle präsentierte Song wurde in „lauter", also stark komprimierter Mischung hinsichtlich mehrerer Parameter signifikant schlechter bewertet als in konventioneller Mischung und hinterließ auch eine negativere Gefühlsanmutung."
+abstract: "Der vorliegende Artikel nähert sich dem „Loudness War" genannten Phänomen, also der gesteigerten 
+Dynamikkompression in der Post-Produktion von populärer Musik, und seinen Auswirkungen für die Rezeption. Die 
+zentrale experimentelle Studie in dieser Arbeit beschäftigt sich in einem 2 x 2 Between-Subjects-Design mit der 
+Wahrnehmung und Bewertung von verschiedenen populären Musikstücken. 56 Studierende (M = 22,8 Jahre, 69,6 % weiblich) 
+hörten in zwei Gruppen jeweils die drei gleichen Lieder, davon das zweite oder dritte in einer übersteigerten 
+Dynamikkompression. Als Messinstrument fungierte ein in Anlehnung an Maempel (2001) modifizierter 
+Klanggestaltungsfragebogen sowie das SAM und der PANAS-d-state. Nur der an dritter Stelle präsentierte Song wurde 
+in „lauter", also stark komprimierter Mischung hinsichtlich mehrerer Parameter signifikant schlechter bewertet als 
+in konventioneller Mischung und hinterließ auch eine negativere Gefühlsanmutung."
 
 # Summary. An optional shortened abstract.
 summary: ""
