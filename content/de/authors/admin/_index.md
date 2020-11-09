@@ -68,7 +68,7 @@ social:
   link: https://publons.com/researcher/1601967/dr-nicolas-ruth/
 - icon: cv-square
   icon_pack: ai
-  link: de/files/de/cv.pdf
+  link: files/cv.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
