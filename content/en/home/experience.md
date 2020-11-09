@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "PostDoc Research Fellow"
-  company = "Goldsmiths, University of London"
+  company = "Department of Psychology, Goldsmiths, University of London"
   company_url = "https://www.gold.ac.uk/psychology/staff/research-staff/"
   location = "London, UK"
   date_start = "2019-05-01"
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research & Teaching Associate / Doctoral Student"
-  company = "Julius-Maximilians-University Würzburg"
+  company = "Media and Business Communication Group, Julius-Maximilians-University Würzburg"
   company_url = "https://www.mcm.uni-wuerzburg.de/mwk/startseite/"
   location = "Würzburg, Germany"
   date_start = "2012-11-01"
