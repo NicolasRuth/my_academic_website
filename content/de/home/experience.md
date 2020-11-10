@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   
   * Lehre in den Studiengängen B.Sc. und M.Sc. Medienkommunikation
   * Forschung im Bereich Musik und Medien
-  * Betrueuung des Tonstudio-Labors
+  * Betreuung des Tonstudio-Labors
   * Betreuung von Abschlussarbeiten in den Bachelor und Master-Studiengängen
   """
 
