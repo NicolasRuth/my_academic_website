@@ -44,7 +44,7 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Hör Dich gesund: Warum Playlisten zu "Mental Health" im Trend liegen"
+  title = "Hör Dich gesund: Warum Playlisten zu 'Mental Health' im Trend liegen"
   content = "[Deutschlandfunk Kultur - Interview (I. Plordoch, 2020)](https://tinyurl.com/y2h5ufe5)"
   align = "right"
 
