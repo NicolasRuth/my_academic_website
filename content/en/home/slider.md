@@ -7,7 +7,7 @@ weight = 90  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = 5000
+interval = false
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
@@ -22,7 +22,7 @@ height = ""
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
+  overlay_color = "#777"  # An HTML color value.
   overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
@@ -39,11 +39,11 @@ height = ""
   content = "L. Teschers, 2018"
   align = "left"
 
-  overlay_color = "#555"  # An HTML color value.
+  overlay_color = "#666"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
-  cta_label = "Interview"
+  cta_label = "YouTube Interview"
   cta_url = "https://youtu.be/WgXGYxYWQdQ"
   cta_icon_pack = "fab"
   cta_icon = "youtube"
@@ -51,14 +51,70 @@ height = ""
 [[item]]
   title = "Hör Dich gesund: Warum Playlisten zu 'Mental Health' im Trend liegen"
   content = "I. Plordoch, 2020"
-  align = "right"
+  align = "left"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = ""  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+  cta_label = "Radio interview"
+  cta_url = "https://srv.deutschlandradio.de/dlf-audiothek-audio-teilen.3265.de.html?mdm:audio_id=872324"
+  cta_icon_pack = "fas"
+  cta_icon = "microphone"
+  
+ [[item]]
+  title = "Von der Fahrstuhlmusik zum Streaming"
+  content = "I. Plordoch, 2020, Deutschlandfunk"
+  align = "left"
+
+  overlay_color = "#444"  # An HTML color value.
+  overlay_img = ""  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+  cta_label = "Radio interview"
+  cta_url = "https://www.deutschlandfunkkultur.de/von-der-fahrstuhlmusik-zum-streaming-die-ueberall-musik.3691.de.html?dram:article_id=475644"
+  cta_icon_pack = "fas"
+  cta_icon = "microphone"
+  
+  [[item]]
+  title = "Musikstreaming - In der Krise wird mehr Musik gehört denn je"
+  content = "I. Plordoch, 2020, Deutschlandfunk Nova"
+  align = "left"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
   cta_label = "Radio interview"
-  cta_url = "https://srv.deutschlandradio.de/dlf-audiothek-audio-teilen.3265.de.html?mdm:audio_id=872324"
+  cta_url = "https://srv.deutschlandradio.de/dlf-audiothek-audio-teilen.3265.de.html?mdm:audio_id=833183"
+  cta_icon_pack = "fas"
+  cta_icon = "microphone"
+  
+ [[item]]
+  title = " Wie Radio unseren Musikgeschmack beeinflusst"
+  content = "A. Stopp, 2016, Deutschlandfunk"
+  align = "left"
+
+  overlay_color = "#222"  # An HTML color value.
+  overlay_img = ""  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+  cta_label = "Radio Talk"
+  cta_url = "https://www.deutschlandfunk.de/immer-weniger-vielfalt-wie-radio-unseren-musikgeschmack.1176.de.html?dram:article_id=358725"
+  cta_icon_pack = "fas"
+  cta_icon = "microphone"
+
+[[item]]
+  title = "Sound-Effekte. Die Pop-Musik und ihre Klangkulturen"
+  content = "O. Karnik & V. Zander, 2016, Deutschlandfunk"
+  align = "left"
+
+  overlay_color = "#111"  # An HTML color value.
+  overlay_img = ""  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+  cta_label = "Radio interview"
+  cta_url = "https://www.deutschlandfunkkultur.de/sound-effekte-die-pop-musik-und-ihre-klangkulturen.3691.de.html?dram:article_id=338602"
   cta_icon_pack = "fas"
   cta_icon = "microphone"
 +++
