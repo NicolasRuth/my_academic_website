@@ -45,7 +45,7 @@ height = ""
 
 [[item]]
   title = "Hör Dich gesund: Warum Playlisten zu "Mental Health" im Trend liegen"
-  content = "[Deutschlandfunk Kultur - Interview (I. Plordoch, 2020)](https://srv.deutschlandradio.de/dlf-audiothek-audio-teilen.3265.de.html?mdm:audio_id=872324)"
+  content = "[Deutschlandfunk Kultur - Interview (I. Plordoch, 2020)](https://tinyurl.com/y2h5ufe5)"
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
