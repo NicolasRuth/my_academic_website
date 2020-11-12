@@ -29,26 +29,36 @@ height = ""
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Get Academic"
-  cta_url = "https://sourcethemes.com/academic/"
-  cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+ # cta_label = "Get Academic"
+ # cta_url = "https://sourcethemes.com/academic/"
+ # cta_icon_pack = "fas"
+ # cta_icon = "graduation-cap"
 
 [[item]]
-  title = "Musik. Macht. Meinung. – Braucht Deutschland politische Musik?"
-  content = "[YouTube - Interview (L. Teschers, 2018)](https://youtu.be/WgXGYxYWQdQ)"
+  title = "Musik. Macht. Meinung. Braucht Deutschland politische Musik?"
+  content = "L. Teschers, 2018"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+  cta_label = "Interview"
+  cta_url = "https://youtu.be/WgXGYxYWQdQ"
+  cta_icon_pack = "fab"
+  cta_icon = "youtube"
 
 [[item]]
   title = "Hör Dich gesund: Warum Playlisten zu 'Mental Health' im Trend liegen"
-  content = "[Deutschlandfunk Kultur - Interview (I. Plordoch, 2020)](https://tinyurl.com/y2h5ufe5)"
+  content = "I. Plordoch, 2020"
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+  cta_label = "Radio interview"
+  cta_url = "https://srv.deutschlandradio.de/dlf-audiothek-audio-teilen.3265.de.html?mdm:audio_id=872324"
+  cta_icon_pack = "fas"
+  cta_icon = "microphone"
 +++
