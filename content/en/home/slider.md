@@ -43,7 +43,7 @@ height = ""
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
-  cta_label = "YouTube Interview"
+  cta_label = "YouTube interview"
   cta_url = "https://youtu.be/WgXGYxYWQdQ"
   cta_icon_pack = "fab"
   cta_icon = "youtube"
