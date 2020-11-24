@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Medien und Musik"
-authors: [Holger SchrammBenedikt SpangardtNicolas Ruth]
+title: "Medien und Musik (Media and music)"
+authors: [Holger Schramm, Benedikt Spangardt, Nicolas Ruth]
 date: 2017-01-01T18:00:00+00:00
 doi: "https://doi.org/10.1007/978-3-658-01324-0"
 

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Musikcastingshows. Wesen, Nutzung und Wirkung eines populären Fernsehformats"
+title: "Musikcastingshows. Wesen, Nutzung und Wirkung eines populären Fernsehformats (Music talent shows)"
 authors: [Holger Schramm, Nicolas Ruth]
 date: 2017-01-01T18:00:00+00:00
 doi: "http://dx.doi.org/10.1007/978-3-658-17892-5"

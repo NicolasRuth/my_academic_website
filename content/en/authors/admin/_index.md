@@ -82,4 +82,4 @@ user_groups:
 - ECRs
 ---
 
-Nicolas Ruth is a music and media science scholar with a focus on music/media psychology and management. After studying Musicology and Popular Music and Media, he did his PhD in Media Communication. Ruth conducted research on prosocial music, radio/TV reception, music and advertising and streaming technologies using a wide range of methods like experiments, surveys, content analyses and interviews. His current research is on the development of musical abilities and personality in children.
+Nicolas Ruth is a music and media science scholar with a focus on music/media psychology and management. After studying Musicology and Popular Music and Media, he did his PhD in Media Communication. Ruth has conducted research on prosocial music, radio/TV reception, music and advertising and streaming technologies using a wide range of methods such as experiments, surveys, content analyses and interviews. His current research is on the development of musical abilities and personality in children.

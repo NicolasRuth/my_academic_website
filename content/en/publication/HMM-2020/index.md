@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Musik auf Online- und Mobilmedien"
+title: "Musik auf Online- und Mobilmedien (Music on online and mobile media)"
 authors: [Nicolas Ruth]
 date: 2019-07-03T18:00:00+00:00
 doi: "http://dx.doi.org/10.1007/978-3-658-21899-7_9"

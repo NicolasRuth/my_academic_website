@@ -31,6 +31,7 @@ date_format = "Jan 2006"
   * Managing a longitudinal study
   * Writing papers
   * Supervising master theses
+  * Elected Early Career Researcher Representative
   """
 
 [[experience]]
@@ -43,7 +44,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Teaching in B.Sc. and M.Sc Media Communication
+  * Teaching in B.Sc. and M.Sc. Media Communication
   * Research on music and media
   * Management of recording studio lab
   * Supervising bachelor and master theses

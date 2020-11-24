@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "MuPsych App für Android Smartphones: Eine neue Möglichkeit für music experience sampling"
+title: "MuPsych App für Android Smartphones: Eine neue Möglichkeit für music experience sampling (MuPsych App for Android smartphones: A new approach for music experience sampling)"
 authors: [Nicolas Ruth]
 date: 2018-08-13T18:00:00+00:00
 doi: "http://dx.doi.org/10.5964/jbdgm.2018v28.23"
