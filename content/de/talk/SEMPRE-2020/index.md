@@ -1,5 +1,5 @@
 ---
-title: "Associatalks tions between musical sophistication and personality: Evidence from three countries"
+title: "Associations between musical sophistication and personality: Evidence from three countries"
 event: Society for Education, Music and Psychology Research (SEMPRE)
 event_url: https://ahc.leeds.ac.uk/events/event/1801/autumn_2020_sempre_conference
 location: University of Leeds
