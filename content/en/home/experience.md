@@ -18,12 +18,28 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Substitute Professor"
+  company = "Institute for Systematic Musicology, University of Hamburg"
+  company_url = "https://www.kulturwissenschaften.uni-hamburg.de/en/sm.html"
+  location = "Hamburg, Germany"
+  date_start = "2021-04-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Teaching in B.A. and M.A. Systematic Musicology
+  * Supervising theses
+  * Elected Representative in the Committee for Teaching, Studies and Academic Reform
+  * Writing research grant applications
+  * Research on music streaming and mobile music usage
+  """
+[[experience]]
   title = "PostDoc Research Fellow"
   company = "Department of Psychology, Goldsmiths, University of London"
   company_url = "https://www.gold.ac.uk/psychology/staff/research-staff/"
   location = "London, UK"
   date_start = "2019-05-01"
-  date_end = ""
+  date_end = "2021-03-31"
   description = """
   Responsibilities include:
   

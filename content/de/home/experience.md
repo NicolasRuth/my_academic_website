@@ -17,14 +17,29 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-
+[[experience]]
+  title = "Vertretungsprofessor für Systematische Musikwissenschaft"
+  company = "Institut für Systematische Musikwissenschaft, Universität Hamburg"
+  company_url = "https://www.kulturwissenschaften.uni-hamburg.de/sm/institut.html"
+  location = "Hamburg"
+  date_start = "2021-04-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Lehre in den Studiengängen B.A. und M.A. Systematische Musikwissenschaft
+  * Betreuung von Abschlussarbeiten in den Bachelor und Master-Studiengängen
+  * Gewählter Vertreter für den Ausschuss für Lehre und Studium
+  * Verfassen von Drittmittelanträgen
+  * Forschung zu Musikstreaming und mobilem Musikhören
+  """
 [[experience]]
   title = "PostDoc Research Fellow"
   company = "Department of Psychology, Goldsmiths, University of London"
   company_url = "https://www.gold.ac.uk/psychology/staff/research-staff/"
   location = "London, UK"
   date_start = "2019-05-01"
-  date_end = ""
+  date_end = "2021-03-31"
   description = """
   Tätigkeiten:
   
@@ -32,6 +47,7 @@ date_format = "Jan 2006"
   * Organisation und Durchführung der Langzeitstudie
   * Veröffentlichung von Ergebnissen
   * Betreuung von Abschlussarbeiten
+  * Gewählter Vertreter des akademischen Mittelbaus
   """
 
 [[experience]]
