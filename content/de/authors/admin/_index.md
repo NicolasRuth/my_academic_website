@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoc Research Fellow - Musikpsychologie & Musikmanagement
+role: Vertretungsprofessor/Postdoc Research Fellow - Musikpsychologie & Musikmanagement
 
 # Organizations/Affiliations
 organizations:
-- name: Goldsmiths, University of London
-  url: "https://www.gold.ac.uk/psychology/staff/research-staff/"
+- name: University of Hamburg
+  url: "https://www.kulturwissenschaften.uni-hamburg.de/sm/personen.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Meine Forschungsschwerpunkte sind Entwicklung musikalischer Fähigkeiten und Persönlichkeit, Streaming, Musikmarketing und -management, Musik in den Medien und prosoziale Musik.
