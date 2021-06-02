@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoc Research Fellow in Music Psychology & Music Management
+role: Interim Professor/Postdoc Researcher in Music Psychology & Music Management
 
 # Organizations/Affiliations
 organizations:
-- name: Goldsmiths, University of London
-  url: "https://www.gold.ac.uk/psychology/staff/research-staff/"
+- name: University of Hamburg
+  url: "https://www.kulturwissenschaften.uni-hamburg.de/sm/personen.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include development of musical abilities and personality, streaming, music marketing and management, music in media, prosocial music.
