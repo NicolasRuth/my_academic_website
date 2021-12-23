@@ -45,8 +45,8 @@ height = ""
   
   cta_label = "Zeitschriftenartikel"
   cta_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/41593-lieder-die-veraendern.html"
-  cta_icon_pack = "fab"
-  cta_icon = "magazine"
+  cta_icon_pack = "fas"
+  cta_icon = "newspaper-o"
   
   [[item]]
   title = "Auf die Ohren: Wie wir am meisten von Musik haben"
@@ -59,7 +59,7 @@ height = ""
   
   cta_label = "Expertengespräch"
   cta_url = "https://www.deutschlandfunknova.de/beitrag/update-bienen-schusswaffen-eu-gipfel"
-  cta_icon_pack = "fab"
+  cta_icon_pack = "fas"
   cta_icon = "microphone"
   
   [[item]]
@@ -73,7 +73,7 @@ height = ""
   
   cta_label = "Radiointerview"
   cta_url = "https://www.bremenzwei.de/"
-  cta_icon_pack = "fab"
+  cta_icon_pack = "fas"
   cta_icon = "microphone"
 
 [[item]]
