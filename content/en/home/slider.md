@@ -45,8 +45,8 @@ height = ""
   
   cta_label = "Magazine article"
   cta_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/41593-lieder-die-veraendern.html"
-  cta_icon_pack = "fab"
-  cta_icon = "magazine"
+  cta_icon_pack = "fas"
+  cta_icon = "newspaper-o"
   
   [[item]]
   title = "Auf die Ohren: Wie wir am meisten von Musik haben"
@@ -59,7 +59,7 @@ height = ""
   
   cta_label = "Expert talk"
   cta_url = "https://www.deutschlandfunknova.de/beitrag/update-bienen-schusswaffen-eu-gipfel"
-  cta_icon_pack = "fab"
+  cta_icon_pack = "fas"
   cta_icon = "microphone"
   
   [[item]]
@@ -73,7 +73,7 @@ height = ""
   
   cta_label = "Radio interview"
   cta_url = "https://www.bremenzwei.de/"
-  cta_icon_pack = "fab"
+  cta_icon_pack = "fas"
   cta_icon = "microphone"
 
 [[item]]
@@ -81,7 +81,7 @@ height = ""
   content = "L. Teschers, 2018"
   align = "left"
 
-  overlay_color = "#888"  # An HTML color value.
+  overlay_color = "#666"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
@@ -95,7 +95,7 @@ height = ""
   content = "I. Plordoch, 2020"
   align = "left"
 
-  overlay_color = "#777"  # An HTML color value.
+  overlay_color = "#555"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
@@ -109,7 +109,7 @@ height = ""
   content = "I. Plordoch, 2020, Deutschlandfunk"
   align = "left"
 
-  overlay_color = "#666"  # An HTML color value.
+  overlay_color = "#444"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
@@ -123,7 +123,7 @@ height = ""
   content = "I. Plordoch, 2020, Deutschlandfunk Nova"
   align = "left"
 
-  overlay_color = "#555"  # An HTML color value.
+  overlay_color = "#333"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
@@ -137,7 +137,7 @@ height = ""
   content = "A. Stopp, 2016, Deutschlandfunk"
   align = "left"
 
-  overlay_color = "#444"  # An HTML color value.
+  overlay_color = "#222"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
@@ -151,7 +151,7 @@ height = ""
   content = "O. Karnik & V. Zander, 2016, Deutschlandfunk"
   align = "left"
 
-  overlay_color = "#333"  # An HTML color value.
+  overlay_color = "#111"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
