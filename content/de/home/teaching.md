@@ -62,7 +62,7 @@ date_format = "Jan 2006"
   title = "**Liste mit allen Lehrveranstaltungen herunterladen**"
   url = "/files/teaching.pdf"
   certificate_url = ""
-  date_start = "2012-11-01"
+  date_start = "2021-12-01"
   date_end = ""
   description = "Diese pdf-Datei enthält eine Liste mit allen Lehrveranstaltungen"
 
