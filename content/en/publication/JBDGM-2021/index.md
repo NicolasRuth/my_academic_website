@@ -7,7 +7,7 @@ date: 2020-05-07T18:18:47+00:00
 doi: "https://doi.org/10.5964/jbdgm.2019v29.48"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-09-24T14:18:47+00:00
+publishDate: 2021-12-20T14:18:47+00:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
