@@ -64,7 +64,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021-12-01"
   date_end = ""
-  description = "Diese pdf-Datei enthält eine Liste mit allen Lehrveranstaltungen"
+  description = "**Diese pdf-Datei enthält eine Liste mit allen Lehrveranstaltungen**"
 
 +++
 
