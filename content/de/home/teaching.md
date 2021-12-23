@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2020-11-01"
   date_end = ""
   description = ""
-  
+
 [[item]]
   organization = "Universität Wuerzburg"
   organization_url = ""
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   date_start = "2017-04-01"
   date_end = ""
   description = ""
-  
+
 [[item]]
   organization = "Universität Würzburg"
   organization_url = ""
@@ -59,12 +59,11 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Alle Universitäten"
   organization_url = ""
-  title = "**Liste mit allen Lehrveranstaltungen herunterladen**"
+  title = "**Liste mit allen Lehrveranstaltungen und betreuten Abschlussarbeiten herunterladen**"
   url = "/files/teaching.pdf"
   certificate_url = ""
   date_start = "2021-12-01"
   date_end = ""
-  description = "**Diese pdf-Datei enthält eine Liste mit allen Lehrveranstaltungen**"
+  description = "**Diese pdf-Datei enthält eine Liste mit allen Lehrveranstaltungen und Abschlussarbeiten**"
 
 +++
-

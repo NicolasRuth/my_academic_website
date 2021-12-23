@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2020-11-01"
   date_end = ""
   description = ""
-  
+
 [[item]]
   organization = "University of Wuerzburg"
   organization_url = ""
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   date_start = "2017-04-01"
   date_end = ""
   description = ""
-  
+
 [[item]]
   organization = "University of Wuerzburg"
   organization_url = ""
@@ -55,7 +55,7 @@ date_format = "Jan 2006"
   date_start = "2016-04-01"
   date_end = ""
   description = ""
-  
+
   [[item]]
   organization = "University of Wuerzburg"
   organization_url = ""
@@ -65,7 +65,7 @@ date_format = "Jan 2006"
   date_start = "2015-04-01"
   date_end = ""
   description = ""
-  
+
 [[item]]
   organization = "University of Wuerzburg"
   organization_url = ""
@@ -79,7 +79,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "All universities"
   organization_url = ""
-  title = "Download a complete list of teaching experience here"
+  title = "**Download a complete list of teaching and supervising experience here**"
   url = "/files/teaching.pdf"
   certificate_url = ""
   date_start = "2021-12-01"
@@ -87,4 +87,3 @@ date_format = "Jan 2006"
   description = "**This is a downloadable pdf with all teaching experience and supervised theses in English and German**"
 
 +++
-
