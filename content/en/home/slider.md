@@ -33,6 +33,48 @@ height = ""
  # cta_url = "https://sourcethemes.com/academic/"
  # cta_icon_pack = "fas"
  # cta_icon = "graduation-cap"
+ 
+ [[item]]
+  title = "Lieder, die verändern"
+  content = "F. Luerweg, 2021, Psychologie Heute"
+  align = "left"
+
+  overlay_color = "#999"  # An HTML color value.
+  overlay_img = ""  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+  cta_label = "Magazine article"
+  cta_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/41593-lieder-die-veraendern.html"
+  cta_icon_pack = "fab"
+  cta_icon = "magazine"
+  
+  [[item]]
+  title = "Auf die Ohren: Wie wir am meisten von Musik haben"
+  content = "M. von Lieben, 2021, Deutschlandfunk Nova"
+  align = "left"
+
+  overlay_color = "#888"  # An HTML color value.
+  overlay_img = ""  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+  cta_label = "Expert talk"
+  cta_url = "https://www.deutschlandfunknova.de/beitrag/update-bienen-schusswaffen-eu-gipfel"
+  cta_icon_pack = "fab"
+  cta_icon = "microphone"
+  
+  [[item]]
+  title = "Spotify-Wrapped 2021"
+  content = "Bremen 2, 2021"
+  align = "left"
+
+  overlay_color = "#777"  # An HTML color value.
+  overlay_img = ""  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+  cta_label = "Radio interview"
+  cta_url = "https://www.bremenzwei.de/"
+  cta_icon_pack = "fab"
+  cta_icon = "microphone"
 
 [[item]]
   title = "Musik. Macht. Meinung. Braucht Deutschland politische Musik?"
@@ -57,7 +99,7 @@ height = ""
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
-  cta_label = "Radio interview"
+  cta_label = "Expert talk"
   cta_url = "https://srv.deutschlandradio.de/dlf-audiothek-audio-teilen.3265.de.html?mdm:audio_id=872324"
   cta_icon_pack = "fas"
   cta_icon = "microphone"
@@ -71,7 +113,7 @@ height = ""
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
-  cta_label = "Radio interview"
+  cta_label = "Expert talk"
   cta_url = "https://www.deutschlandfunkkultur.de/von-der-fahrstuhlmusik-zum-streaming-die-ueberall-musik.3691.de.html?dram:article_id=475644"
   cta_icon_pack = "fas"
   cta_icon = "microphone"
@@ -85,7 +127,7 @@ height = ""
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
-  cta_label = "Radio interview"
+  cta_label = "Expert talk"
   cta_url = "https://srv.deutschlandradio.de/dlf-audiothek-audio-teilen.3265.de.html?mdm:audio_id=833183"
   cta_icon_pack = "fas"
   cta_icon = "microphone"
@@ -99,7 +141,7 @@ height = ""
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
-  cta_label = "Radio talk"
+  cta_label = "Live talk"
   cta_url = "https://www.deutschlandfunk.de/immer-weniger-vielfalt-wie-radio-unseren-musikgeschmack.1176.de.html?dram:article_id=358725"
   cta_icon_pack = "fas"
   cta_icon = "microphone"
@@ -113,7 +155,7 @@ height = ""
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
-  cta_label = "Radio interview"
+  cta_label = "Expert talk"
   cta_url = "https://www.deutschlandfunkkultur.de/sound-effekte-die-pop-musik-und-ihre-klangkulturen.3691.de.html?dram:article_id=338602"
   cta_icon_pack = "fas"
   cta_icon = "microphone"
