@@ -33,7 +33,7 @@ height = ""
  # cta_url = "https://sourcethemes.com/academic/"
  # cta_icon_pack = "fas"
  # cta_icon = "graduation-cap"
- 
+
  [[item]]
   title = "Lieder, die verändern"
   content = "F. Luerweg, 2021, Psychologie Heute"
@@ -42,11 +42,11 @@ height = ""
   overlay_color = "#999"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-  
+
   cta_label = "Magazine article"
   cta_url = "https://www.psychologie-heute.de/leben/artikel-detailansicht/41593-lieder-die-veraendern.html"
   cta_icon_pack = "fas"
-  cta_icon = "newspaper-o"
+  cta_icon = "fa-newspaper-o"
   
   [[item]]
   title = "Auf die Ohren: Wie wir am meisten von Musik haben"
@@ -56,12 +56,12 @@ height = ""
   overlay_color = "#888"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-  
+
   cta_label = "Expert talk"
   cta_url = "https://www.deutschlandfunknova.de/beitrag/update-bienen-schusswaffen-eu-gipfel"
   cta_icon_pack = "fas"
   cta_icon = "microphone"
-  
+
   [[item]]
   title = "Spotify-Wrapped 2021"
   content = "Bremen 2, 2021"
@@ -70,7 +70,7 @@ height = ""
   overlay_color = "#777"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-  
+
   cta_label = "Radio interview"
   cta_url = "https://www.bremenzwei.de/"
   cta_icon_pack = "fas"
@@ -84,7 +84,7 @@ height = ""
   overlay_color = "#666"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-  
+
   cta_label = "YouTube interview"
   cta_url = "https://youtu.be/WgXGYxYWQdQ"
   cta_icon_pack = "fab"
@@ -98,12 +98,12 @@ height = ""
   overlay_color = "#555"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-  
+
   cta_label = "Expert talk"
   cta_url = "https://srv.deutschlandradio.de/dlf-audiothek-audio-teilen.3265.de.html?mdm:audio_id=872324"
   cta_icon_pack = "fas"
   cta_icon = "microphone"
-  
+
  [[item]]
   title = "Von der Fahrstuhlmusik zum Streaming"
   content = "I. Plordoch, 2020, Deutschlandfunk"
@@ -112,12 +112,12 @@ height = ""
   overlay_color = "#444"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-  
+
   cta_label = "Expert talk"
   cta_url = "https://www.deutschlandfunkkultur.de/von-der-fahrstuhlmusik-zum-streaming-die-ueberall-musik.3691.de.html?dram:article_id=475644"
   cta_icon_pack = "fas"
   cta_icon = "microphone"
-  
+
   [[item]]
   title = "Musikstreaming - In der Krise wird mehr Musik gehört denn je"
   content = "I. Plordoch, 2020, Deutschlandfunk Nova"
@@ -126,12 +126,12 @@ height = ""
   overlay_color = "#333"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-  
+
   cta_label = "Expert talk"
   cta_url = "https://srv.deutschlandradio.de/dlf-audiothek-audio-teilen.3265.de.html?mdm:audio_id=833183"
   cta_icon_pack = "fas"
   cta_icon = "microphone"
-  
+
  [[item]]
   title = " Wie Radio unseren Musikgeschmack beeinflusst"
   content = "A. Stopp, 2016, Deutschlandfunk"
@@ -140,7 +140,7 @@ height = ""
   overlay_color = "#222"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-  
+
   cta_label = "Live talk"
   cta_url = "https://www.deutschlandfunk.de/immer-weniger-vielfalt-wie-radio-unseren-musikgeschmack.1176.de.html?dram:article_id=358725"
   cta_icon_pack = "fas"
@@ -154,7 +154,7 @@ height = ""
   overlay_color = "#111"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-  
+
   cta_label = "Expert talk"
   cta_url = "https://www.deutschlandfunkkultur.de/sound-effekte-die-pop-musik-und-ihre-klangkulturen.3691.de.html?dram:article_id=338602"
   cta_icon_pack = "fas"
