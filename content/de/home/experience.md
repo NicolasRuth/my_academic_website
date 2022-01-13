@@ -25,8 +25,8 @@ date_format = "Jan 2006"
   date_start = "2021-04-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
+  Tätigkeiten:
+
   * Lehre in den Studiengängen B.A. und M.A. Systematische Musikwissenschaft
   * Betreuung von Abschlussarbeiten in den Bachelor und Master-Studiengängen
   * Gewählter Vertreter für den Ausschuss für Lehre und Studium
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   date_end = "2021-03-31"
   description = """
   Tätigkeiten:
-  
+
   * Analyse von Langzeitdaten
   * Organisation und Durchführung der Langzeitstudie
   * Veröffentlichung von Ergebnissen
@@ -59,7 +59,7 @@ date_format = "Jan 2006"
   date_end = "2019-03-31"
   description = """
   Tätigkeiten:
-  
+
   * Lehre in den Studiengängen B.Sc. und M.Sc. Medienkommunikation
   * Forschung im Bereich Musik und Medien
   * Betreuung des Tonstudio-Labors
