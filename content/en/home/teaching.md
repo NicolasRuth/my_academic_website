@@ -19,60 +19,51 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "University of Cologne"
+  organization = "Universität Hamburg"
   organization_url = ""
-  title = "Algorithmusgeleitetes Musikstreaming am Beispiel von Spotify (Algorithm based music streaming on Spotify)"
+  title = "Einführung in die Musikpsychologie [Introduction to music psychology]"
   url = ""
+  date_start = "2021-10-01"
+  date_end = ""
+  description = ""
+
+  [[item]]
+    organization = "Universität Hamburg"
+    organization_url = ""
+    title = "Forschungsperspektiven auf populäre Musik [Research perspectives on popular
+music]"
+    url = ""
+    date_start = "2021-10-01"
+    date_end = ""
+    description = ""
+
+[[item]]
+  organization = "Universität Hamburg"
+  organization_url = ""
+  title = "Musikmarketing auf Basis theoretischer Ansätze und empirischer Erkenntnisse [Music marketing based on theoretical and empirical insights]"
+  url = ""
+  date_start = "2021-04-01"  
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Universität zu Köln"
+  organization_url = "http://kunst.uni-koeln.de/intermedia-winterschool/workshops/"
+  title = "Algorithmusgeleitetes Musikstreaming am Beispiel von Spotify [Algorithm based
+music streaming as shown on Spotify]"
+  url = ""
+  certificate_url = ""
   date_start = "2020-11-01"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "University of Wuerzburg"
+  organization = "Universität Würzburg"
   organization_url = ""
-  title = "Meaning of Streaming – Chancen und Risiken von Musikstreaming (Meaning of streaming - chances and risks of music streaming)"
-  url = ""
-  date_start = "2018-10-01"  
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "University of Wuerzburg"
-  organization_url = ""
-  title = "Musikmarketing – Konzepte und Praxis (music marketing - conceptualization and practices)"
-  url = ""
-  certificate_url = ""
-  date_start = "2017-04-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "University of Wuerzburg"
-  organization_url = ""
-  title = "Musik- und Eventmanagement (music and event management)"
+  title = "Musik- und Eventmanagement"
   url = ""
   certificate_url = ""
   date_start = "2016-04-01"
-  date_end = ""
-  description = ""
-
-  [[item]]
-  organization = "University of Wuerzburg"
-  organization_url = ""
-  title = "With A Little Help From My Friends. Rezeption und Wirkung prosozialer Musik (Effects of prosocial music)"
-  url = ""
-  certificate_url = ""
-  date_start = "2015-04-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "University of Wuerzburg"
-  organization_url = ""
-  title = "Traditionelle vs. alternative Hitmixe im Radio (Traditional versus alternative hit mixes in the radio)"
-  url = ""
-  certificate_url = ""
-  date_start = "2013-04-01"
   date_end = ""
   description = ""
 

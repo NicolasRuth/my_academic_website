@@ -19,30 +19,39 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Universität Hamburg"
+  organization_url = ""
+  title = "Einführung in die Musikpsychologie"
+  url = ""
+  date_start = "2021-10-01"
+  date_end = ""
+  description = ""
+
+  [[item]]
+    organization = "Universität Hamburg"
+    organization_url = ""
+    title = "Forschungsperspektiven auf populäre Musik"
+    url = ""
+    date_start = "2021-10-01"
+    date_end = ""
+    description = ""
+
+[[item]]
+  organization = "Universität Hamburg"
+  organization_url = ""
+  title = "Musikmarketing auf Basis theoretischer Ansätze und empirischer Erkenntnisse."
+  url = ""
+  date_start = "2021-04-01"  
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Universität zu Köln"
   organization_url = "http://kunst.uni-koeln.de/intermedia-winterschool/workshops/"
   title = "Algorithmusgeleitetes Musikstreaming am Beispiel von Spotify"
   url = ""
-  date_start = "2020-11-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Universität Wuerzburg"
-  organization_url = ""
-  title = "Meaning of Streaming – Chancen und Risiken von Musikstreaming"
-  url = ""
-  date_start = "2018-10-01"  
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Universität Wuerzburg"
-  organization_url = ""
-  title = "Musikmarketing – Konzepte und Praxis"
-  url = ""
   certificate_url = ""
-  date_start = "2017-04-01"
+  date_start = "2020-11-01"
   date_end = ""
   description = ""
 
