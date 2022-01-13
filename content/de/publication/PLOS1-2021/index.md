@@ -3,11 +3,11 @@
 
 title: "Survival of musical activities. When do young people stop making music?"
 authors: [Nicolas Ruth, Daniel Müllensiefen]
-date: 2021-24-11T18:18:47+00:00
+date: 2021-11-24T18:18:47+00:00
 doi: "https://doi.org/10.1371/journal.pone.0259105"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-20-12T18:18:47+00:00
+publishDate: 2021-12-20T18:18:47+00:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
