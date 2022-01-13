@@ -3,7 +3,7 @@
 
 title: "“Evacuate the Dancefloor”: Exploring and Classifying Spotify Music Listening Before and During the COVID-19 Pandemic in DACH Countries"
 authors: [Kework Kalustian, Nicolas Ruth]
-date: 2020-05-07T18:18:47+00:00
+date: 2021-09-24T18:18:47+00:00
 doi: "https://doi.org/10.5964/jbdgm.2019v29.48"
 
 # Schedule page publish date (NOT publication's date).

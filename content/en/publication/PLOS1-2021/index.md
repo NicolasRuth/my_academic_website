@@ -16,8 +16,8 @@ publishDate: 2021-20-12T18:18:47+00:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Jahrbuch Musikpsychologie*"
-publication_short: ""
+publication: "*PLoS ONE*"
+publication_short: "Survival of musical activities"
 
 abstract: "Although making music is a popular leisure activity for children and adolescents, few stay musically engaged. Previous research has focused on finding reasons for quitting musical activities, pedagogical strategies to keep students engaged with music, and motivational factors of musical training. Nonetheless, we know very little about how the proportion of musically active children changes with age and what traits influence the survival of musical engagement. This study used longitudinal data from secondary school students in the UK and Germany aged between 10 and 17 years. A survival analysis was applied to investigate the trajectories of musical activities across this age span. Other factors like type of learned instrument, gender, personality and intelligence were taken into account for further analyses using generalized linear models. Results indicate that about 50% of all students drop out of music lessons and other musical activities by the time they turn 17 years old, with most students quitting between the ages of 15 and 17. Musical home environment is an important factor that is associated with lower drop out rates while conscientiousness and theory of musicality showed smaller significant associations."
 
