@@ -17,13 +17,31 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "Substitute Professor"
+  title = "Professor for Digital Communication in the Music and Entertainment Industries"
+  company = "Institute for Cultural Management and Media, University of Music and Theatre Munich"
+  company_url = "https://www.kulturmanagement-muenchen.de/"
+  location = "Munich, Germany"
+  date_start = "2022-05-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Teaching in M.A. Digital Communication in the Music and Entertainment Industries
+  * Supervising theses
+  * Managing the M.A. program
+  * Writing research grant applications
+  * Research on music streaming and digital communication
+  """
+  
+[[experience]]
+  title = "Interims Professor"
   company = "Institute for Systematic Musicology, University of Hamburg"
   company_url = "https://www.kulturwissenschaften.uni-hamburg.de/en/sm.html"
   location = "Hamburg, Germany"
   date_start = "2021-04-01"
-  date_end = ""
+  date_end = "2022-09-30"
   description = """
   Responsibilities include:
   
@@ -33,6 +51,7 @@ date_format = "Jan 2006"
   * Writing research grant applications
   * Research on music streaming and mobile music usage
   """
+  
 [[experience]]
   title = "PostDoc Research Fellow"
   company = "Department of Psychology, Goldsmiths, University of London"
