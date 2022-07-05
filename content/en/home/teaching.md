@@ -30,8 +30,7 @@ date_format = "Jan 2006"
   [[item]]
     organization = "Universität Hamburg"
     organization_url = ""
-    title = "Forschungsperspektiven auf populäre Musik [Research perspectives on popular
-music]"
+    title = "Forschungsperspektiven auf populäre Musik [Research perspectives on popular music]"
     url = ""
     date_start = "2021-10-01"
     date_end = ""
