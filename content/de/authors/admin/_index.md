@@ -10,18 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: Vertretungsprofessor/Postdoc Research Fellow - Musikpsychologie & Musikmanagement
+role: Professor für Digitale Kommunikation in der Musik- und Entertainmentindustrie
 
 # Organizations/Affiliations
 organizations:
-- name: University of Hamburg
-  url: "https://www.kulturwissenschaften.uni-hamburg.de/sm/personen.html"
+- name: Hochschule für Musik und Theater München
+  url: "https://www.kulturmanagement-muenchen.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Meine Forschungsschwerpunkte sind Entwicklung musikalischer Fähigkeiten und Persönlichkeit, Streaming, Musikmarketing und -management, Musik in den Medien und prosoziale Musik.
+bio: Meine Forschungsschwerpunkte sind Digitale Kommunikation, Entwicklung musikalischer Fähigkeiten und Persönlichkeit, Streaming, Musikmarketing und -management, Musik in den Medien und prosoziale Musik.
 
 interests:
 
+ - Digitale Kommunikation
  - Entwicklung musikalischer Fähigkeiten
  - Prosoziale Musik
  - Streaming
@@ -83,4 +84,4 @@ user_groups:
 - Akademischer Mittelbau
 ---
 
-Nicolas Ruth ist Musik- und Medienwissenschaftler mit einem besonderen Schwerpunkt in Musikpsychologie und -management. Nach seinem Studium in Musikwissenschaft / Populäre Musik und Medien promovierte er zum Thema prosoziale Musik. In Lehre und Forschung  hat er sich vor allem mit der Rezeption von Musik in den Medien, Streaming sowie Musik und Werbung beschäftigt. Dazu nutzte er diverse methodische Zugänge wie Experimente, Befragungen, Inhaltsanalysen, Beobachtungen und Interviews. Ruths aktueller Forschungsschwerpunkt liegt auf der Entwicklung musikalischer Fähigkeiten im Kontext von Persönlichkeitsentwicklung.
+Nicolas Ruth ist Musik- und Medienkommunikationswissenschaftler mit einem besonderen Schwerpunkt in Musikpsychologie und -management. Seit 2022 ist er Professor für Digitale Kommunikation in der Musik- und Entertainmentindustrie. Nach seinem Studium in Musikwissenschaft / Populäre Musik und Medien promovierte er zum Thema prosoziale Musik. In Lehre und Forschung hat er sich vor allem mit der Rezeption von Musik in den Medien, der Entwicklung musikalischer Fähigkeiten im Kontext von Persönlichkeitsentwicklung sowie Musik und Werbung beschäftigt. Dazu nutzte er diverse methodische Zugänge wie Experimente, Befragungen, Data Science, Inhaltsanalysen, Beobachtungen und Interviews. Ruths aktueller Forschungsschwerpunkt liegt auf der Nutzung und den Auswirkungen von Musikstreaming.
