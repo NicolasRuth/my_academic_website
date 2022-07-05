@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Postdoc Researcher in Music Psychology & Music Management"
+description = "Professor in Digital Communication in the Music and Entertainment Industries, Munich"
 
 ############################
 ## Site Features
@@ -93,11 +93,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Neue Rabenstr. 13", city = "Hamburg", region = "", postcode = "20354", country = "Germany", country_code = "DE"}
+address = {street = "Arcisstr. 12", city = "München", region = "", postcode = "80333", country = "Germany", country_code = "DE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "53.561", longitude = "9.994"}
+coordinates = {latitude = "48.045", longitude = "11.969"}
 
 # Directions for visitors to locate you.
 directions = ""
