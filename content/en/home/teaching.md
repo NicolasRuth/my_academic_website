@@ -48,8 +48,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Universität zu Köln"
   organization_url = "http://kunst.uni-koeln.de/intermedia-winterschool/workshops/"
-  title = "Algorithmusgeleitetes Musikstreaming am Beispiel von Spotify [Algorithm based
-music streaming as shown on Spotify]"
+  title = "Algorithmusgeleitetes Musikstreaming am Beispiel von Spotify [Algorithm based music streaming as shown on Spotify]"
   url = ""
   certificate_url = ""
   date_start = "2020-11-01"
