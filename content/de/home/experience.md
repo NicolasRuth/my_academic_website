@@ -17,6 +17,24 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Professor für Digitale Kommunikation in der Musik- and Entertainmentindustrie"
+  company = "Institut für Kulturmanagement und Medien, Hochschule für Musik und Theater München"
+  company_url = "https://www.kulturmanagement-muenchen.de/"
+  location = "München, Germany"
+  date_start = "2022-05-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Lehre im Studiengang M.A. Digitale Kommunikation in der Musik- and Entertainmentindustrie
+  * Betreuung von Abschlussarbeiten 
+  * Leitung des Studiengangs
+  * Verfassen von Drittmittelanträgen
+  * Forschung zu Musikstreaming und digitaler Kommunikation
+  """
+  
 [[experience]]
   title = "Vertretungsprofessor für Systematische Musikwissenschaft"
   company = "Institut für Systematische Musikwissenschaft, Universität Hamburg"
