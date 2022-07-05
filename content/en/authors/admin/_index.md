@@ -10,18 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: Interim Professor/Postdoc Researcher in Music Psychology & Music Management
+role: Professor of Digital Communication in the Music and Entertainment Industries
 
 # Organizations/Affiliations
 organizations:
-- name: University of Hamburg
-  url: "https://www.kulturwissenschaften.uni-hamburg.de/sm/personen.html"
+- name: Unviersity of Music and Theatre Munich
+  url: "https://www.kulturmanagement-muenchen.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include development of musical abilities and personality, streaming, music marketing and management, music in media, prosocial music.
+bio: My research interests include digital communication, development of musical abilities and personality, streaming, music marketing and management, music in media, prosocial music.
 
 interests:
 
+ - Digital communication
  - Development of musical abilities
  - Prosocial music
  - Streaming
