@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   """
   
 [[experience]]
-  title = "Interims Professor"
+  title = "Interim Professor"
   company = "Institute for Systematic Musicology, University of Hamburg"
   company_url = "https://www.kulturwissenschaften.uni-hamburg.de/en/sm.html"
   location = "Hamburg, Germany"
