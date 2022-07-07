@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   company_url = "https://www.kulturwissenschaften.uni-hamburg.de/sm/institut.html"
   location = "Hamburg"
   date_start = "2021-04-01"
-  date_end = ""
+  date_end = "2022-09-30"
   description = """
   Tätigkeiten:
 
