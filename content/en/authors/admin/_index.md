@@ -54,7 +54,10 @@ social:
   link: https://twitter.com/nickruth
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=v_bo6OEAAAAJ
+  link: https://scholar.google.co.uk/citations?user=v_bo6OEAAAAJ 
+- icon: linkedin
+  icon_pack: ai
+  link: https://www.linkedin.com/in/nicolas-ruth/
 - icon: github
   icon_pack: fab
   link: https://github.com/NicolasRuth/
